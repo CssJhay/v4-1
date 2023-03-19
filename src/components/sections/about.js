@@ -147,7 +147,7 @@ const About = () => {
               <a href="https://www.sharondegreat.com/">a huge corporation</a>, and{' '}
               <a href="https://www.ctihubs/">as system Technician </a>. My
               main focus these days is building accessible ERP system at 
-              <a href="https://attain-es.com/"> Attain-es</a> for a variety of
+               <a href="https://attain-es.com/">Attain-es</a> for a variety of
               clients.
             </p>
 
