@@ -2,7 +2,7 @@
 date: '2017-12-21'
 title: 'Web Developer'
 company: 'SDG Limited'
-location: 'Victorial Island, Lagos'
+location: 'Victoria Island, Lagos'
 range: 'Sept - February 2021'
 url: 'https://sharondegreat.com/'
 ---
