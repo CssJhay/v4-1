@@ -61,15 +61,14 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Joseph Olamide.</h2>;
-  const three = <h3 className="big-heading">I build things for the web.</h3>;
+  const three = <h3 className="big-heading">Web & Interface Designer.</h3>;
   const four = (
     <>
       <p>
-        I’m a software engineer specializing in building (and occasionally designing) exceptional
-        digital experiences. Currently, I’m focused on building accessible, human-centered Interfaces
-        at{' '}
-        <a href="https://upstatement.com/" target="_blank" rel="noreferrer">
-          Attain-es(Microsoft Partner)
+       I’m a Developer/Designer who specializes in designing exceptional digital interfaces and experiences. 
+       Currently, I’m focused on building accessible, human-centered system at.{' '}
+        <a href="https://attain-es.com/" target="_blank" rel="noreferrer">
+          Attain-es (Microsoft Partner)
         </a>
         .
       </p>
@@ -78,10 +77,10 @@ const Hero = () => {
   const five = (
     <a
       className="email-link"
-      href="https://www.newline.co/courses/build-a-spotify-connected-app"
+      href="/#Contact"
       target="_blank"
       rel="noreferrer">
-      Check out my course!
+      Contact Me!
     </a>
   );
 
