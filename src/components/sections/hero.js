@@ -66,9 +66,9 @@ const Hero = () => {
     <>
       <p>
        I’m a Developer who specializes in developing exceptional digital systems, interfaces and experiences. 
-       Currently, I’m focused on building accessible ERP system at {' '}
+       Currently, I’m focused on building accessible ERP systems at {' '}
         <a href="https://attain-es.com/" target="_blank" rel="noreferrer">
-          Attain-es (Microsoft Partner).
+          Attain-es (Microsoft Partner)
         </a>
         .
       </p>
