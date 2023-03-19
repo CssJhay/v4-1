@@ -39,7 +39,7 @@ const StyledText = styled.div`
         content: '▹';
         position: absolute;
         left: 0;
-        color:#FD2155;
+        color:var(--green);
         font-size: var(--fz-sm);
         line-height: 12px;
       }
