@@ -39,7 +39,7 @@ const StyledText = styled.div`
         content: '▹';
         position: absolute;
         left: 0;
-        color: var(--green);
+        color:#FD2155;
         font-size: var(--fz-sm);
         line-height: 12px;
       }
@@ -61,7 +61,7 @@ const StyledPic = styled.div`
     position: relative;
     width: 100%;
     border-radius: var(--border-radius);
-    background-color: var(--green);
+    background-color: #FD2155;
 
     &:hover,
     &:focus {
@@ -105,7 +105,7 @@ const StyledPic = styled.div`
     }
 
     &:after {
-      border: 2px solid var(--green);
+      border: 2px solid #FD2155;
       top: 20px;
       left: 20px;
       z-index: -1;
@@ -135,30 +135,28 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Brittany and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
+              Hello! My name is Joseph and I enjoy creating solutions via web and systems (software). 
+              I am a Web & System Developer with over 3+ years of experience. 
+              Experienced with most stages of the development cycle for dynamic web & system projects.
             </p>
 
             <p>
               Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
+              <a href="https://peachtreehomes.ng/">Peachtreehomes as a web developer</a>,{' '}
+              <a href="https://Antennamedia.com/">a start-up</a>,{' '}
+              <a href="https://www.sharondegreat.com/">a huge corporation</a>, and{' '}
+              <a href="https://www.radiosharkemusic.com/">an online store as a web developer</a>. My
+              main focus these days is building accessible, building accessible ERP system at 
+              <a href="https://attain-es.com/">Upstatement</a> for a variety of
               clients.
             </p>
 
             <p>
               I also recently{' '}
-              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                launched a course
+              <a href="https://www.jhit-solutions.com/">
+                launched a startup
               </a>{' '}
-              that covers everything you need to build a web app with the Spotify API using Node
-              &amp; React.
+              that entails a group of Designers and Developers who specializes in designing and developing exceptional digital systems, interfaces and experiences.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
