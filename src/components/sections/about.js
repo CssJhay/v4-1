@@ -136,7 +136,7 @@ const About = () => {
           <div>
             <p>
               Hello! My name is Joseph and I enjoy creating solutions via web and systems (software). 
-              I am a Web & System Developer with over 3+ years of experience. 
+              I am a Web & System Developer with years of experience.
               Experienced with most stages of the development cycle for dynamic web & system projects.
             </p>
 
@@ -145,9 +145,9 @@ const About = () => {
               <a href="https://peachtreehomes.ng/">Peachtreehomes as a web developer</a>,{' '}
               <a href="https://Antennamedia.com/">a start-up</a>,{' '}
               <a href="https://www.sharondegreat.com/">a huge corporation</a>, and{' '}
-              <a href="https://www.radiosharkemusic.com/">an online store as a web developer</a>. My
-              main focus these days is building accessible, building accessible ERP system at 
-              <a href="https://attain-es.com/">Upstatement</a> for a variety of
+              <a href="https://www.ctihubs/">as system Technician </a>. My
+              main focus these days is building accessible ERP system at 
+              <a href="https://attain-es.com/"> Attain-es</a> for a variety of
               clients.
             </p>
 
