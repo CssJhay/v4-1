@@ -19,7 +19,7 @@ const StyledHeroSection = styled.section`
 
   h1 {
     margin: 0 0 30px 4px;
-    color: var(--green);
+    color: #FD2155;
     font-family: var(--font-mono);
     font-size: clamp(var(--fz-sm), 5vw, var(--fz-md));
     font-weight: 400;
@@ -61,14 +61,14 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Joseph Olamide.</h2>;
-  const three = <h3 className="big-heading">Web & Interface Designer.</h3>;
+  const three = <h3 className="big-heading">Web & System Developer.</h3>;
   const four = (
     <>
       <p>
-       I’m a Developer/Designer who specializes in designing exceptional digital interfaces and experiences. 
-       Currently, I’m focused on building accessible, human-centered system at.{' '}
+       I’m a Developer who specializes in developing exceptional digital systems, interfaces and experiences. 
+       Currently, I’m focused on building accessible ERP system at {' '}
         <a href="https://attain-es.com/" target="_blank" rel="noreferrer">
-          Attain-es (Microsoft Partner)
+          Attain-es (Microsoft Partner).
         </a>
         .
       </p>
@@ -77,7 +77,7 @@ const Hero = () => {
   const five = (
     <a
       className="email-link"
-      href="/#Contact"
+      href="/Contact"
       target="_blank"
       rel="noreferrer">
       Contact Me!
