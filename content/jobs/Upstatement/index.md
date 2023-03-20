@@ -9,4 +9,3 @@ url: 'https://www.attain-es.com/'
 
 - Write modern, performant, maintainable codes for a diverse array of client and internal projects.
 - Work with different languages, platforms, frameworks, and content management systems such as VS, AL, CA/L, NAV, SQL Server and Business Central.
-- Communicate with multi-disciplinary teams of engineers, developers and clients on a daily basis.
