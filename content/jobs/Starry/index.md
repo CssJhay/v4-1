@@ -1,12 +1,11 @@
 ---
-date: '2016-12-21'
-title: 'Software Engineer Co-op'
-company: 'Starry'
-location: 'Boston, MA'
+date: '2020-12-21'
+title: 'Frontend Engineer Tutor'
+company: 'DM Academy'
+location: 'Lagos, Nigeria'
 range: 'July - December 2016'
-url: 'https://starry.com/'
+url: 'https://dma.com/'
 ---
 
-- Engineered and maintained major features of Starry's customer-facing web app using ES6, Handlebars, Backbone, Marionette and CSS
-- Proposed and implemented scalable solutions to issues identified with cloud services and applications responsible for communicating with Starry Station
-- Interfaced with user experience designers and other developers to ensure thoughtful and coherent user experiences across Starry’s iOS and Android mobile apps
+- Administer all facilities and opportunities for students and provide appropriate coaching and guidance on Front End Development.
+- Interfaced with user interface designers and other developers to ensure thoughtful and coherent learning process for the students.
