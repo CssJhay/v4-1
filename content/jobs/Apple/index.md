@@ -8,4 +8,5 @@ url: 'https://sharondegreat.com/'
 ---
 
 - Designed and Developed highly interactive web applications for SGD Limited using.
-- Created other linking web apps using scripting or authoring languages, management tools, content creation tools, applications, and digital media.
+- Created other linking web apps using scripting or authoring languages, management tools, content creation tools, applications, and digital media
+•	Developing or validating test routines and schedules to ensure that test cases mimic external interfaces and address all browser and device types. 
