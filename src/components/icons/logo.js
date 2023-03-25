@@ -1,11 +1,13 @@
 import React from 'react';
 
 const IconLogo = () => (
-  <svg id="logo" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 84 96">
-    <title>Logo</title>
-    <g transform="translate(-8.000000, -2.000000)">
-      <g transform="translate(11.000000, 5.000000)">
-        <path d="M1485 3081 c-27 -10 -171 -88 -320 -173 -148 -85 -353 -199 -455
+  <svg id="logo" xmlns="http://www.w3.org/2000/svg"
+ width="310.000000pt" height="310.000000pt" viewBox="0 0 310.000000 310.000000"
+ preserveAspectRatio="xMidYMid meet">
+
+<g transform="translate(0.000000,310.000000) scale(0.100000,-0.100000)"
+fill="#000000" stroke="none">
+<path d="M1485 3081 c-27 -10 -171 -88 -320 -173 -148 -85 -353 -199 -455
 -253 -307 -163 -458 -262 -500 -330 -19 -31 -20 -52 -20 -759 l0 -727 53 -56
 c65 -69 248 -191 474 -316 94 -53 279 -160 410 -240 362 -219 386 -231 439
 -223 47 6 130 45 217 100 60 39 965 550 1044 589 90 46 83 -28 83 844 l0 773
