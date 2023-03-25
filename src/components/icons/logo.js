@@ -1,7 +1,8 @@
 import React from 'react';
 
 const IconLogo = () => (
-  <svg id="logo" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 84 96">
+  <svg id="logo" xmlns="http://www.w3.org/2000/svg" role="img" width="310.000000pt" height="310.000000pt" viewBox="0 0 310.000000 310.000000"
+ preserveAspectRatio="xMidYMid meet">
     <title>Logo</title>
     <g transform="translate(0.000000,310.000000) scale(0.100000,-0.100000)"
 fill="currentColor" stroke="none">
