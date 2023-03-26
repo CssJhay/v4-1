@@ -1,15 +1,15 @@
 ---
 date: '1'
-title: 'Halcyon Theme'
-cover: './halcyon.png'
-github: 'https://github.com/bchiang7/halcyon-site'
-external: 'https://halcyon-theme.netlify.com/'
+title: 'Peachtree Homes'
+cover: './peachtreehomes.png'
+github: 'https://peachtreehomes.ng/'
+external: 'https://peachtreehomes.ng/'
 tech:
-  - VS Code
-  - Sublime Text
-  - Atom
-  - iTerm2
-  - Hyper
+  - Wordpress
+  - Elementor
+  - PHP
+  - Jquery
+  - bootstrap-css
 ---
 
-A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode), [Package Control](https://packagecontrol.io/packages/Halcyon%20Theme), [Atom Package Manager](https://atom.io/themes/halcyon-syntax), and [npm](https://www.npmjs.com/package/hyper-halcyon-theme).
+Peachtreehomes is a Nigerian apartment management company that rents to you Luxury Apartments online with no stress. Mainm goal is to make Luxury lifestyle open to all who have a bigger taste for beautiful things. This webapp enables you to view different apartments available for rent and their details features, including their locations and a proper booking system, for you to make reservations.
