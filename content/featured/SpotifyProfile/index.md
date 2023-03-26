@@ -1,15 +1,15 @@
 ---
 date: '2'
-title: 'Spotify Profile'
-cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+title: 'Cypress Logistics'
+cover: './Cypress.png'
+github: 'https://github.com/CssJhay/cypresslogistics'
+external: 'https://cypresslogistics.vercel.app/'
 tech:
-  - React
-  - Styled Components
-  - Express
-  - Spotify API
-  - Heroku
+  - HTML
+  - CSS
+  - React JS
+  - PHP 
+  - JQuery
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+Cypress Logistics is one of Africa’s leading indigenous logistics company powered by technology with a solid reputation for e-commerce/social commerce-tailored logistics..This features Webapp enables easy logistics process for users around africa. You can requet for detailed quotes on shipment from one location to another via the webapp. 
