@@ -1,16 +1,15 @@
 ---
 date: '3'
-title: 'Build a Spotify Connected App'
-cover: './course-card.png'
-external: 'https://www.newline.co/courses/build-a-spotify-connected-app'
-cta: 'https://www.newline.co/courses/build-a-spotify-connected-app'
+title: 'Radiosharke Music'
+cover: './radiosharke.png'
+external: 'https://radiosharkemusic.com/'
+cta: 'https://radiosharkemusic.com/'
 tech:
-  - React
-  - Express
-  - Spotify API
-  - Styled Components
+  - Wordpress
+  - Elementor
+  - PHP
+  - softculous
+  - Pay-API
 ---
 
-Having struggled with understanding how the Spotify OAuth flow works, I made the course I wish I could have had.
-
-Unlike tutorials that only cover a few concepts and leave you with half-baked GitHub repositories, this course covers everything from explaining the principles of REST APIs to implementing Spotify's OAuth flow and fetching API data in a React app. By the end of the course, you’ll have an app deployed to the internet you can add to your portfolio.
+Radiosharke International is a company that deals with exporting and importing of all types of musical instruments. This E-commerce website enables you see all types of musical instruments, including their brands, sold at Radiosharke Music Stores in Lagos. You can process an order on the website.
