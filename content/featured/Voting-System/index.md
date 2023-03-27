@@ -1,7 +1,7 @@
 ---
 date: '1'
 title: 'School Voting System'
-cover: './voting.png'
+cover: './Voting.png'
 external: 'https://dynamics.microsoft.com/en-us/nav-overview/'
 cta: 'https://dynamics.microsoft.com/en-us/nav-overview/'
 tech:
