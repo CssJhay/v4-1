@@ -301,7 +301,9 @@ const Projects = () => {
           </TransitionGroup>
         )}
       </ul>
-
+        <button className="more-button" onClick={() => setShowMore(!showMore)}>
+        Show {showMore ? 'Less' : 'More'}
+      </button>
       
     </StyledProjectsSection>
   );
