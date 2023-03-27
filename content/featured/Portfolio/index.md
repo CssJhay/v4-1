@@ -1,5 +1,5 @@
 ---
-date: '5'
+date: '6'
 title: 'Jhay Portfolio'
 cover: './portfolio.png'
 external: 'https://jhayportfolio.gatsbyjs.io/'
@@ -13,4 +13,4 @@ tech:
 
 ---
 
-This is the first iteration of my personal website built with Gatsby.
+This is the second iteration of my personal website built with Gatsby.
