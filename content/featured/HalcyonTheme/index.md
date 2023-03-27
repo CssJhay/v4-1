@@ -1,5 +1,5 @@
 ---
-date: '1'
+date: '2'
 title: 'Peachtree Homes'
 cover: './peachtreehomes.png'
 github: 'https://peachtreehomes.ng/'
