@@ -6,7 +6,7 @@ external: 'https://shop240.com/
 tech:
   - CSS
   - PHP
-  - SQL DB
+  - SQL DB 
 showInProjects: true
 ---
 
