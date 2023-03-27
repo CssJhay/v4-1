@@ -7,7 +7,6 @@ tech:
   - CSS
   - PHP
   - SQL DB
-company: ''
 showInProjects: true
 ---
 
