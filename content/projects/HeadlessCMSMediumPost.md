@@ -1,15 +1,15 @@
 ---
 date: '2019-11-12'
-title: 'Mobile App CMS From Scratch'
+title: 'SDG Website'
 github: ''
-external: 'https://medium.com/stories-from-upstatement/building-a-headless-mobile-app-cms-from-scratch-bab2d17744d9'
+external: 'https://Sharondegreat.com'
 tech:
-  - Node
-  - Express
-  - Firebase
-  - Vue
-company: 'Upstatement'
+  - HTML
+  - CSS
+  - JS
+  - Formsubmit
+company: 'SDG Limited'
 showInProjects: true
 ---
 
-Find out how we built a custom headless CMS with Node, Express, and Firebase for a project at Upstatement
+Simple orgamnizational portfolio that shows services rendered by the organization. Built wiith HTML, CSS and JS, integrated the formsubmit API to received mails from clients directly from the website.
