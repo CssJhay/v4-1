@@ -1,14 +1,14 @@
 ---
 date: '2020-01-10'
-title: 'Time to Have More Fun'
-github: 'https://github.com/bchiang7/time-to-have-more-fun'
-external: 'https://time-to-have-more-fun.now.sh/'
+title: 'Shop240'
+github: 'https://shop240.com/'
+external: 'https://shop240.com/
 tech:
-  - Next.js
-  - Tailwind CSS
-  - Firebase
+  - CSS
+  - PHP
+  - SQL DB
 company: ''
 showInProjects: true
 ---
 
-A single page web app for helping me choose where to travel, built with Next.js, Firebase, and Tailwind CSS
+A Multi vendor ecommerce website for shopping and making and receiving orders for both users and vendors.
