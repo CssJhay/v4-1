@@ -1,14 +1,15 @@
 ---
 date: '2020-03-27'
-title: 'Integrating Algolia Search with WordPress Multisite'
-github: ''
-external: 'https://medium.com/stories-from-upstatement/integrating-algolia-search-with-wordpress-multisite-e2dea3ed449c'
+title: 'Interest Computation'
+github: 'https://dynamics.microsoft.com/en-us/nav-overview/'
+external: 'https://dynamics.microsoft.com/en-us/nav-overview/'
 tech:
-  - Algolia
-  - WordPress
-  - PHP
-company: 'Upstatement'
+  - MS Dynamics Navison
+  - Dynamics Navison DE
+  - NAV Server
+  - CA/L
+company: 'Attain-es'
 showInProjects: true
 ---
 
-Building a custom multisite compatible WordPress plugin to build global search with Algolia
+This is a Microsoft Dynamics Syatem Application built with Microsoft Dynamics Navison, that enables easy Interest Computation and other fee valuations for a Pension firm.
