@@ -12,4 +12,4 @@ company: 'Attain-es'
 showInProjects: true
 ---
 
-This is a Microsoft Dynamics Syatem Application built with Microsoft Dynamics Navison, that enables easy Interest Computation and other fee valuations for a Pension firm.
+This is a Microsoft Dynamics System Application built with Microsoft Dynamics Navison, that enables easy Interest Computation and other fee valuations for a Pension firm.
