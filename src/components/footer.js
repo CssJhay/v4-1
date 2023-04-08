@@ -17,13 +17,13 @@ const StyledSocialLinks = styled.div`
   display: none;
 
   //@media (max-width: 768px) 
-{
-    display: block;
+//{
+    //display: block;
     //width: 100%;
-    max-width: 270px;
-    margin: 0 auto 10px;
-    color: var(--light-slate);
-  }
+    //max-width: 270px;
+    //margin: 0 auto 10px;
+    //color: var(--light-slate);
+  //}
 
   ul {
     ${({ theme }) => theme.mixins.flexBetween};
