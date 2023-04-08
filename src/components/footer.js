@@ -16,7 +16,8 @@ const StyledFooter = styled.footer`
 const StyledSocialLinks = styled.div`
   display: none;
 
-  @media (max-width: 768px) {
+  //@media (max-width: 768px) 
+{
     display: block;
     width: 100%;
     max-width: 270px;
