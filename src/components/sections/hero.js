@@ -77,7 +77,7 @@ const Hero = () => {
   const five = (
     <a
       className="email-link"
-      href="/Contact"
+      href="https://wa.me/+2349098048587?text=%20Hi,my%20name%20is%20"
       target="_blank"
       rel="noreferrer">
       Contact Me!
