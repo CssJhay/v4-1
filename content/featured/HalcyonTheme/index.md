@@ -10,6 +10,7 @@ tech:
   - PHP
   - Jquery
   - bootstrap-css
+showInProjects: true
 ---
 
 Peachtreehomes is a Nigerian apartment management company that rents to you Luxury Apartments online with no stress. Mainm goal is to make Luxury lifestyle open to all who have a bigger taste for beautiful things. This webapp enables you to view different apartments available for rent and their details features, including their locations and a proper booking system, for you to make reservations.
