@@ -1,5 +1,5 @@
 ---
-date: '1'
+date: '2022'
 title: 'School Voting System'
 cover: './Voting.png'
 external: 'https://dynamics.microsoft.com/en-us/nav-overview/'
