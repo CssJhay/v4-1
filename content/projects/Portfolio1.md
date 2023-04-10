@@ -1,5 +1,5 @@
 ---
-date: '2017-12-01'
+date: '2021-12-01'
 title: 'Personal portfolio'
 github: 'https://github.com/CssJhay/J.O-Portfolio'
 external: 'https://jhay-portfolio.vercel.app/'
