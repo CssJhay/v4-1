@@ -60,7 +60,7 @@ const Contact = () => {
       <h2 className="title">Get In Touch</h2>
 
       <p>
-        I am available for Freelance projects .I have a pre-vetted and handpicked programming talents 
+        I am available for Freelance projects. I have a pre-vetted and handpicked programming talents 
         for your contract engagaements. Hire me and get your projects done!
       </p>
 
