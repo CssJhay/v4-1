@@ -55,14 +55,7 @@ const StyledPic = styled.div`
     width: 70%;
   }
 
-  .wrapper {
-    ${({ theme }) => theme.mixins.boxShadow};
-    display: block;
-    position: relative;
-    width: 100%;
-    border-radius: var(--border-radius);
-    background-color:;
-
+ 
     &:hover,
     &:focus {
       outline: 0;
