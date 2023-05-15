@@ -87,7 +87,7 @@ const StyledPic = styled.div`
       width: 100%;
       height: 100%;
       border-radius: var(--border-radius);
-      transition: var(--transition);
+      
     }
 
     &:before {
