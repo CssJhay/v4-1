@@ -261,12 +261,12 @@ const StyledProject = styled.li`
 
       &:hover,
       &:focus {
-        background: transparent;
+       
         outline: 0;
 
         &:before,
         .img {
-          background: transparent;
+         
           filter: none;
         }
       }
