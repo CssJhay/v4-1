@@ -39,7 +39,7 @@ const StyledText = styled.div`
         content: '▹';
         position: absolute;
         left: 0;
-        color:var(--green);
+        color: var(--green);
         font-size: var(--fz-sm);
         line-height: 12px;
       }
@@ -55,14 +55,21 @@ const StyledPic = styled.div`
     width: 70%;
   }
 
- 
+  .wrapper {
+    ${({ theme }) => theme.mixins.boxShadow};
+    display: block;
+    position: relative;
+    width: 100%;
+    border-radius: var(--border-radius);
+    background-color: var(--green);
+
     &:hover,
     &:focus {
       outline: 0;
+      transform: translate(-4px, -4px);
 
       &:after {
-        top: 15px;
-        left: 15px;
+        transform: translate(8px, 8px);
       }
 
       .img {
@@ -75,7 +82,7 @@ const StyledPic = styled.div`
       position: relative;
       border-radius: var(--border-radius);
       mix-blend-mode: multiply;
-      {/*filter: grayscale(100%) contrast(1);*/}
+      filter: grayscale(100%) contrast(1);
       transition: var(--transition);
     }
 
@@ -87,24 +94,25 @@ const StyledPic = styled.div`
       width: 100%;
       height: 100%;
       border-radius: var(--border-radius);
-      
+      transition: var(--transition);
     }
 
     &:before {
       top: 0;
       left: 0;
-      background-color: ;
+      background-color: var(--navy);
       mix-blend-mode: screen;
     }
 
     &:after {
       border: 2px solid var(--green);
-      top: 20px;
-      left: 20px;
+      top: 14px;
+      left: 14px;
       z-index: -1;
     }
   }
 `;
+
 
 const About = () => {
   const revealContainer = useRef(null);
