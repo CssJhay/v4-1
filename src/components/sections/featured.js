@@ -283,13 +283,13 @@ const StyledProject = styled.li`
         z-index: 3;
         transition: var(--transition);
         background-color: var(--navy);
-        mix-blend-mode: screen;
+        
       }
     }
 
     .img {
       border-radius: var(--border-radius);
-      mix-blend-mode: multiply;
+      
       filter: grayscale(100%) contrast(1) brightness(90%);
 
       @media (max-width: 768px) {
