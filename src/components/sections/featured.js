@@ -289,8 +289,6 @@ const StyledProject = styled.li`
 
     .img {
       border-radius: var(--border-radius);
-      
-      filter: grayscale(100%) contrast(1) brightness(90%);
 
       @media (max-width: 768px) {
         object-fit: cover;
